@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/adharapi/static/js/main.a7d35ea4.js",
+    "static/js/787.c66403ad.chunk.js": "/adharapi/static/js/787.c66403ad.chunk.js",
+    "index.html": "/adharapi/index.html",
+    "main.a7d35ea4.js.map": "/adharapi/static/js/main.a7d35ea4.js.map",
+    "787.c66403ad.chunk.js.map": "/adharapi/static/js/787.c66403ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a7d35ea4.js"
+  ]
+}
